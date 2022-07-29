@@ -1,0 +1,9 @@
+name: Lasso-1.18.1-Unofficial
+version: '${project.version}'
+main: com.spawnchunk.lasso.Lasso
+api-version: 1.18
+authors: [ OfficerGibbie ]
+description: An unofficial 1.18.1 update for lasso
+commands:
+  lasso:
+    description: Lasso Command To Reload Configuration Files
